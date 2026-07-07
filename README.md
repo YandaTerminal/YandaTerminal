@@ -1,5 +1,9 @@
 # 燕大终端（Yanda Terminal）
 
+<p align="center">
+  <img src="yanda-terminal-logo.png" alt="Yanda Terminal" width="160" />
+</p>
+
 原燕大终端 Android 客户端的重生版本，基于原版代码库独立维护。
 
 ## 这是什么

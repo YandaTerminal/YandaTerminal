@@ -21,4 +21,3 @@
 ## 安全更新
 
 安全修复会随常规版本发布，并在 Release 说明中标注。建议开启自动更新或定期查看 [GitHub Releases](../../releases)。
-
