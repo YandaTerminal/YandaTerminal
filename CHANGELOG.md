@@ -32,6 +32,35 @@ _(无变更 / No changes)_
 ## v0.11.0 (2026-07-13)
 
 ### 🚀 新功能 / Features
+_(无变更 / No changes)_
+
+### 🐛 修复 / Bug Fixes
+_(无变更 / No changes)_
+
+### 🔧 其他 / Other Changes
+_(无变更 / No changes)_
+
+---
+
+**Full diff**: https://github.com/YandaTerminal/yanda-terminal/compare/v0.11.0...v0.11.0
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+| iOS | `yanda-terminal-ios.ipa` |
+| HarmonyOS | `entry-default-unsigned.hap` |
+| Windows | `YandaTerminal_0.11.0_x64-setup.exe` |
+| Linux | `YandaTerminal_0.11.0_amd64.AppImage` |
+| macOS | `YandaTerminal_0.11.0_aarch64.dmg` |
+
+> PWA: https://yanda.dpdns.org
+
+
+## v0.11.0 (2026-07-13)
+
+### 🚀 新功能 / Features
 - feat(tauri): 实现与 Android 原生客户端的全部功能对等 / feat(tauri): achieve full feature parity with Android native client
   1. Secure storage (CRITICAL): Rust keyring crate wraps OS credential store
   2. Grade/exam foreground polling: notify-foreground.ts implements setInterval +
