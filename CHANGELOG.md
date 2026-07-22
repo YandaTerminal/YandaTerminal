@@ -1,5 +1,32 @@
 # Changelog
 
+## v0.11.1 (2026-07-22)
+
+### 🚀 新功能 / Features
+_(无变更 / No changes)_
+
+### 🐛 修复 / Bug Fixes
+_(无变更 / No changes)_
+
+### 🔧 其他 / Other Changes
+_(无变更 / No changes)_
+
+---
+
+**完整差异**: https://github.com/YandaTerminal/yanda-terminal/compare/v0.11.4514...v0.11.1
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+| HarmonyOS | `entry-default-unsigned.hap` |
+| Windows | `YandaTerminal_0.11.1_x64-setup.exe` |
+| Linux | `YandaTerminal_0.11.1_amd64.AppImage` |
+
+> PWA: https://yanda.dpdns.org
+
+
 ## v0.11.0-test2 (2026-07-22)
 
 ### 🚀 新功能 / Features
