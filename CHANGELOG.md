@@ -1,5 +1,31 @@
 # Changelog
 
+## v0.19.19-810 (2026-07-22)
+
+### 🚀 新功能 / Features
+_(无变更 / No changes)_
+
+### 🐛 修复 / Bug Fixes
+_(无变更 / No changes)_
+
+### 🔧 其他 / Other Changes
+_(无变更 / No changes)_
+
+---
+
+**完整差异**: https://github.com/YandaTerminal/yanda-terminal/compare/v0.11.2-test...v0.19.19-810
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+| Windows | `YandaTerminal_0.19.19-810_x64-setup.exe` |
+| Linux | `YandaTerminal_0.19.19-810_amd64.AppImage` |
+
+> PWA: https://yanda.dpdns.org
+
+
 ## v0.11.2-test2 (2026-07-22)
 
 ### 🚀 新功能 / Features
