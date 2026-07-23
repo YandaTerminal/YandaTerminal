@@ -3,13 +3,18 @@
 ## v0.19.19-810 (2026-07-23)
 
 ### 🚀 新功能 / Features
-_(无变更 / No changes)_
+- feat: add score details and classroom availability (空教室查询与成绩分项明细)
+- feat(theme): add Pride Month (彩虹 🌈) theme mode with rainbow schedule colors & top gradient bar
 
 ### 🐛 修复 / Bug Fixes
-_(无变更 / No changes)_
+- fix: normalize room schedule results & render public schedules as weekly grids
+- fix: stabilize classroom queries and release notes
+- fix(ci): fix PowerShell version parsing & release artifact quota hit
 
 ### 🔧 其他 / Other Changes
-_(无变更 / No changes)_
+- docs: organize JWMobile analysis, test portal HTML and UI screenshots into docs
+- ci: remove artifact uploads, publish sigs to release, refactor manifest generation
+- ci: version stamp 0.19.19 + all build jobs parse version input
 
 ---
 
@@ -22,12 +27,11 @@ _(无变更 / No changes)_
 | Android | `app-release.apk` |
 | iOS | `yanda-terminal-ios.ipa` |
 | HarmonyOS | `entry-default-unsigned.hap` |
-| Windows | `YandaTerminal_0.19.19-810_x64-setup.exe` |
-| Linux | `YandaTerminal_0.19.19-810_amd64.AppImage` |
-| macOS | `YandaTerminal_0.19.19-810_aarch64.dmg` |
+| Windows | `YandaTerminal_0.19.19_x64-setup.exe` |
+| Linux | `YandaTerminal_0.19.19_amd64.AppImage` |
+| macOS | `YandaTerminal_0.19.19_aarch64.dmg` |
 
 > PWA: https://yanda.dpdns.org
-
 
 ## v0.19.19-810 (2026-07-22)
 
