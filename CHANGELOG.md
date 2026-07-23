@@ -1,5 +1,43 @@
 # Changelog
 
+## v0.19.19-811 (2026-07-23)
+
+### 🚀 新功能 / Features
+- feat: add score details and classroom availability
+- feat(theme): add top rainbow accent bar for Pride Month theme
+- feat(theme): add Pride Month theme mode with rainbow schedule colors
+
+### 🐛 修复 / Bug Fixes
+- fix(cas): add robust id/name attribute extraction and regex fallbacks for execution and pwdEncryptSalt
+- fix(worker): strip content-encoding and content-length headers from proxy responses to solve execution missing error on self-hosted proxies
+- fix(ci): fix CHANGELOG.md generation PREV_TAG logic to use local repository tags
+- fix: normalize room schedule results
+- fix: render public schedules as weekly grids
+- fix: stabilize classroom queries and release notes
+- fix(ci): fix PowerShell version parsing in build-tauri-windows
+
+### 🔧 其他 / Other Changes
+- docs: organize JWMobile analysis, test portal HTML and UI screenshots into docs
+- ci: remove artifact uploads, publish sigs to release, refactor manifest generation
+
+---
+
+**完整差异**: https://github.com/YandaTerminal/yanda-terminal/compare/v0.19.19-810...v0.19.19-811
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+| iOS | `yanda-terminal-ios.ipa` |
+| HarmonyOS | `entry-default-unsigned.hap` |
+| Windows | `YandaTerminal_0.19.19-811_x64-setup.exe` |
+| Linux | `YandaTerminal_0.19.19-811_amd64.AppImage` |
+| macOS | `YandaTerminal_0.19.19-811_aarch64.dmg` |
+
+> PWA: https://yanda.dpdns.org
+
+
 ## v0.19.19-810 (2026-07-23)
 
 ### 🚀 新功能 / Features
