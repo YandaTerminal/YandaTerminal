@@ -1,5 +1,32 @@
 # Changelog
 
+## v0.12.0 (2026-08-20)
+
+### 🚀 新功能 / Features
+_(无变更 / No changes)_
+
+### 🐛 修复 / Bug Fixes
+- fix(ci): run typecheck after build in release job (next-env.d.ts is build-generated)
+- fix(ci): downgrade sw.js Cache-Control assertion to warning
+
+### 🔧 其他 / Other Changes
+- chore: drop deploy-website.sh, prune stale tsconfig excludes
+- chore: drop iOS/HarmonyOS/Tauri targets, keep Android APK + PWA
+- ci: tag-driven release pipeline, version reset to 0.12.0
+
+---
+
+**完整差异**: https://github.com/YandaTerminal/yanda-terminal/compare/full-platforms-archive...v0.12.0
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+
+> PWA: https://yanda.dpdns.org
+
+
 ## v0.19.19-811 (2026-07-23)
 
 ### 🚀 新功能 / Features
