@@ -1,5 +1,33 @@
 # Changelog
 
+## v0.12.1 (2026-08-21)
+
+### 🚀 新功能 / Features
+- feat(login): community-edition badge and copy fixes
+
+### 🐛 修复 / Bug Fixes
+- fix(cookie): 修复 Android 直连登录 missing execution field，原生直连不再声明 Accept-Encoding
+- fix(worker): 修复 PWA 双创学分请求失败，裸 IP 目标改走 DNS 别名出口
+- feat(login): community-edition badge and copy fixes
+
+### 🔧 其他 / Other Changes
+- chore(release): v0.12.1
+- chore: 删除废弃文件 CHANGELOG.md 与 tauri-dev.bat
+- chore: purge platform leftovers in README and worker CORS origins
+
+---
+
+**完整差异**: https://github.com/YandaTerminal/yanda-terminal/compare/v0.12.0...v0.12.1
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+
+> PWA: https://yanda.dpdns.org
+
+
 ## v0.12.0 (2026-08-20)
 
 ### 🚀 新功能 / Features
