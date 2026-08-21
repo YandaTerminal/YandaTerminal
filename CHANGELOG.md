@@ -1,5 +1,30 @@
 # Changelog
 
+## v0.12.2 (2026-08-21)
+
+### 🚀 新功能 / Features
+_(无变更 / No changes)_
+
+### 🐛 修复 / Bug Fixes
+- fix(cas): 修复 Android MFA 验证码提交后报 did not produce a valid session
+- fix(worker): 双创平台改走 socket 传输，Host 保持 IP 形态修复平台会话建立
+
+### 🔧 其他 / Other Changes
+- chore(release): v0.12.2
+
+---
+
+**完整差异**: https://github.com/YandaTerminal/yanda-terminal/compare/v0.12.1...v0.12.2
+
+### 下载 / Download
+
+| Platform | File |
+|----------|------|
+| Android | `app-release.apk` |
+
+> PWA: https://yanda.dpdns.org
+
+
 ## v0.12.1 (2026-08-21)
 
 ### 🚀 新功能 / Features
